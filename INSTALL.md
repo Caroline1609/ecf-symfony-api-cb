@@ -1,6 +1,6 @@
-# symfony
+# Procédure d'installation de Symfony
 
-## Prérequis (fichiers sur le git)
+## Prérequis
 
 - [000-default.conf](000-default.conf)
 - [Dockerfile](Dockerfile)
